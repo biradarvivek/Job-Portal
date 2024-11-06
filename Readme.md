@@ -1,4 +1,7 @@
-### Technologies Used
+### **NextHire**
+
+
+**Technologies Used**
 
 - **Backend**: 
   - `express`: For building the server and API routes.
